@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 添加远程仓库。
 Creating a new branch is quick.
 Creating a new branch is quick2 and update.
+Git is free software....
