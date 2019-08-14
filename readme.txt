@@ -5,8 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 添加远程仓库。
 Creating a new branch is quick.
-<<<<<<< HEAD
-Creating a new branch is quick2 and hebing;
-=======
-creating a new branch is quick2 and hebing;
->>>>>>> feature1
+Creating a new branch is quick2 and hebing.
